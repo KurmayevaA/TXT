@@ -1,0 +1,39 @@
+
+ID: G1
+
+Title: Error message not displayed when entering invalid date of birth on registration form
+
+Summary:
+When attempting to register, the user is allowed to enter an invalid date of birth (such as February 31st) without receiving an error message. This could lead to confusion and incorrect data being entered.
+
+Steps to Reproduce:
+
+1.Navigate to the registration page.
+2.Enter an invalid date of birth, such as February 31st, into the corresponding field.
+3.Click the "Continue" button to proceed with registration.
+4.Expected Result:
+5.An error message should be displayed, indicating that the date entered is invalid and prompting the user to enter a valid date.
+
+Actual Result:
+No error message is displayed, and the user is able to proceed with registration despite entering an invalid date.
+
+Screenshots/Attachments:
+[https://drive.google.com/file/d/12vpUK04rba_m8HBH--yJ4eC7xFZ5ki5z/view?usp=sharing]
+
+Notes:
+
+This issue occurs consistently on all browsers and devices tested.
+All other fields on the registration form are properly validated and trigger appropriate error messages when invalid data is entered.
+This issue was not present in previous versions of the registration form, suggesting that it may have been introduced in a recent update.
+Environment:
+
+OS: Windows 10
+Browser: Google Chrome, version 93.0.4577.63
+Device: Dell Inspiron 15 5000 series
+Severity/Priority:
+This issue is of medium severity, as it does not prevent the user from registering 
+but could lead to confusion and incorrect data being entered. It should be addressed 
+with a priority of 2, as it affects a key aspect of the registration process and could negatively impact the user experience.
+
+Autor: Kurmayeva Alexandra
+Date:12/02/2023
