@@ -1,0 +1,13 @@
+A software tester needs the following skills:
+
+1 Strong analytical and problem-solving skills
+2 Attention to detail
+3 Good communication and collaboration skills
+4 Knowledge of software testing principles and methodologies
+5 Ability to write clear and concise test cases
+6 Familiarity with testing tools and technologies
+7 Understanding of software development processes and lifecycle
+8 Ability to work under pressure and meet deadlines
+9 Adaptability and willingness to learn new technologies and tools
+10Strong organizational and time-management skills.
+These skills are essential for a software tester to ensure that software applications are thoroughly tested and meet the requirements and expectations of users.
